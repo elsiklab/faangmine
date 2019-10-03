@@ -11,13 +11,17 @@ version: 1
 
 # Build documentation with MkDocs
 mkdocs:
-  configuration: mkdocs.yml
+  configuration: docs/mkdocs.yml
 
 # Optionally set the version of Python and requirements required to build your docs
-python:
-  version: 3.7
-  install:
-    - requirements: docs/requirements.txt
-    
+# python:
+#   version: 3.7
+#   install:
+#     - requirements: docs/requirements.txt
+
+formats:
+  - htmlzip
+  - pdf
+  - epub
     
     
