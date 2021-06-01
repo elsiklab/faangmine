@@ -47,9 +47,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'FAANGMine_v1.1'
-copyright = '2019 Elsik Lab'
-authors = u'2019 Elsik Lab'
+project = u'FAANGMine_v1.2'
+copyright = '2021 Elsik Lab'
+authors = u'2021 Elsik Lab'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -254,7 +254,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'FAANGMine', u'FAANGMine Documentation',
-   u'2019 Elsik Lab', 'FAANGMine', 'One line description of project.',
+   u'2021 Elsik Lab', 'FAANGMine', 'One line description of project.',
    'Miscellaneous'),
 ]
 

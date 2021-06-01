@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-FAANGMine v1.1 Documentation
+FAANGMine v1.2 Documentation
 =============================
 
 
@@ -15,7 +15,7 @@ Main site: http://faangmine.org/faangmine
 
 
 Link to the available datasets in FAANGMine:
-http://128.206.116.18:8080/faangmine/dataCategories.do
+http://128.206.116.34:8080/faangmine/dataCategories.do
 
 FAANGMine.org is based upon work supported by the National Science Foundation under Award Number 0054449. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation. FAANGMine is developed and hosted at the University of Missouri.  If you have comments or if you wish to report a problem, please contact the Database Administrator.
 
