@@ -11,7 +11,8 @@ FAANGMine v1.2 Documentation
 
  .. image:: images/FAANGMine-banner.png
 
-Main site: http://faangmine.org/faangmine  
+##Main site: http://faangmine.org/faangmine
+Main site: http://128.206.116.34:8080/faangmine/begin.do
 
 
 Link to the available datasets in FAANGMine:
