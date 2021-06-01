@@ -11,8 +11,7 @@ FAANGMine v1.2 Documentation
 
  .. image:: images/FAANGMine-banner.png
 
-Main site: http://faangmine.org/faangmine  
-
+Main site: http://faangmine.org/faangmine
 
 Link to the available datasets in FAANGMine:
 http://128.206.116.34:8080/faangmine/dataCategories.do
