@@ -159,7 +159,7 @@ To further manage column data, each column has a set of icons in its header.  Mo
 
 Optional filters
 ----------------
-**There is currently a bug within Intermine that affects the Optional Filters. If you run a query with options available but they are turned off during your query then use the "Query Link" in the results page to return to your query, the options are no longer available. Additionally, if you click on "Edit Query" in a template, the optional settings becomes non-optional and the default constraint is applied without your having changed the query in the QueryBuilder. We will incorporate any repairs for this bug as soon as they become available.**
+****If you are using a template with an optional filter and want to edit the template, the "Query" link at the top left of the results page is not functioning properly. Additionally, if you click on "Edit Query" in a template, the optional settings becomes non-optional and the default constraint is applied. To edit the template query, navigate back to the template by using the "Templates" tab on the home page menu bar.**
 
 Some templates have optional filters that are disabled by default. For the Gene --> Homologue query, there is an optional filter to specify the organism used in the query.  To enable the filter, click **ON** below the **Organism > Short Name** label.
 
