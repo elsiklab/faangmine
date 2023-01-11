@@ -8,4 +8,4 @@ The Data Sources table provides a description of the datasets that are integrate
    :alt: Data Sources Table
    :figclass: align-center
    
-   BovineMine Data Sources table
+   FAANGMine Data Sources table
