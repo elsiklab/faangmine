@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'FAANGMine_v1.2'
+project = u'FAANGMine'
 copyright = '2021 Elsik Lab'
 authors = u'2021 Elsik Lab'
 
