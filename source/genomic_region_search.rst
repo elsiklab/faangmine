@@ -29,7 +29,7 @@ As an example, select *B. taurus* from the Select Organism drop-down, and ARS-UC
 
 ::
 
-14:2000000..2800000
+	14:2000000..2800000
 
 ..
 

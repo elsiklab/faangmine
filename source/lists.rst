@@ -28,7 +28,7 @@ As an example, enter the following comma-separated identifiers into the Lists up
 
 ::
 
-CAPN2, ENSCHIG00000014802, BTG1, XDH, 101107826
+	CAPN2, ENSCHIG00000014802, BTG1, XDH, 101107826
 
 
 
