@@ -1,1 +1,3 @@
-# faangmine
+# faangmine_doc
+
+FAANGMine documentation
